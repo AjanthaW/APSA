@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">APSA</string>
+    <string name="device_security_status">Device Security Status</string>
+    <string name="last_scan">Last scan: %1$s</string>
+    <string name="average_risk_score">Average Risk Score: %1$d%%</string>
+    <string name="no_scans_yet">No scans yet</string>
+    <string name="high_risk">High Risk</string>
+    <string name="medium_risk">Medium Risk</string>
+    <string name="low_risk">Low Risk</string>
+    <string name="ready_to_scan">Ready to Scan</string>
+    <string name="scanning_apps">Scanning Apps</string>
+    <string name="scan_apps">Scan Apps </string>
+    <string name="security_dashboard"> Security Dashboard</string>
+    <string name="scan_summary">Scan Summary</string>
+    <string name="view_apps">View Apps</string>
+    <string name="device_details">Device Details</string>
+    <string name="device_model">Device Model: %1$s</string>
+    <string name="device_brand">Device Brand: %1$s</string>
+    <string name="android_version">Android Version: %1$s</string>
+    <string name="total_apps">Total Apps: %1$s</string>
+</resources>
